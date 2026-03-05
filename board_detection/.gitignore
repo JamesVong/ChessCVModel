@@ -1,0 +1,6 @@
+data/videos/
+data/frames/
+data/labels/
+data/yolo_dataset/
+data/label_metadata.csv
+runs/
