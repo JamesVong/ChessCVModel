@@ -34,7 +34,21 @@ EXISTING_VIDEO_IDS = [
 
 # ── New video IDs (populated by find_videos.py) ───────────────────
 NEW_VIDEO_IDS = [
-    # Add IDs here after running find_videos.py
+    "BmyY31di9B4",  # 29.7m - The Gukesh Situation Is Insane
+    "WlmTRwcJzzo",  # 22.0m - Evil Baby vs Martin: STUPID CHESS
+    "w5_WiD3sfxU",  # 17.7m - Can I Beat My Own Baby Chess Bot?
+    "jTeJonyDjoA",  # 23.6m - 6 Brilliant Moves IN ONE GAME
+    "KNko92SXggk",  # 22.8m - How?
+    "dPLLaPsNbJs",  # 25.5m - Claude vs DeepSeek: The End Of Chess
+    "iBJ-DurxcoM",  # 25.7m - ChatGPT HITS 5,000 CHESS ELO
+    "YhQNCuCE4no",  # 22.3m - DeepSeek Solved Chess. Goodbye.
+    "hzzPs17gavs",  # 21.9m - Claude Tried Chess. It's TERRIFYING. 
+    "7g-jN3DTkWQ",  # 23.3m - Grok vs Copilot: DUMBEST CHESS MATCH
+    "7S8QPpeCyD8",  # 23.2m - CHATBOT CHESS CHAMPIONSHIP IS BACK!!!!!!
+    "DmFE2j9dzR4",  # 28.2m - MAGNUS CARLSEN WINS THE WORLD CHAMPIONSH
+    "cTx8qu1m8EU",  # 24.2m - Magnus Carlsen Watches Gotham Play Chess
+    "cQAedm_gWrw",  # 25.1m - I Played GM Pia in an Official Tournamen
+    "6iWVZb6n8GM",  # 23.9m - GUESS THE ELO: Magnus vs Levy
 ]
 
 VIDEO_IDS = EXISTING_VIDEO_IDS + NEW_VIDEO_IDS

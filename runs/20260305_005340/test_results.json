@@ -1,0 +1,19 @@
+{
+  "macro_f1": 0.9944127159918358,
+  "weighted_f1": 0.9977903169179541,
+  "per_class_f1": {
+    "BlackBishop": 1.0,
+    "BlackKing": 0.9743589743589743,
+    "BlackKnight": 0.9818181818181818,
+    "BlackPawn": 0.9955947136563876,
+    "BlackQueen": 0.9767441860465116,
+    "BlackRook": 1.0,
+    "Empty": 0.998849252013809,
+    "WhiteBishop": 1.0,
+    "WhiteKing": 1.0,
+    "WhiteKnight": 1.0,
+    "WhitePawn": 1.0,
+    "WhiteQueen": 1.0,
+    "WhiteRook": 1.0
+  }
+}
