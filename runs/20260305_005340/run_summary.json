@@ -1,0 +1,37 @@
+{
+  "run_id": "20260305_005340",
+  "best_epoch": 15,
+  "val_macro_f1": 0.999597,
+  "val_weighted_f1": 0.99922,
+  "torchscript_path": "runs/20260305_005340/chess_atlas_v1.torchscript.pt",
+  "onnx_path": "runs/20260305_005340/chess_atlas_v1.onnx",
+  "seed": 42,
+  "model": "MobileNetV3-Small",
+  "num_classes": 13,
+  "img_size": 224,
+  "norm_mean": [
+    0.7312191942996898,
+    0.676642973974779,
+    0.578131239766768
+  ],
+  "norm_std": [
+    0.22906228831551215,
+    0.21381854723082921,
+    0.20717511662273255
+  ],
+  "label_map": {
+    "BlackBishop": 0,
+    "BlackKing": 1,
+    "BlackKnight": 2,
+    "BlackPawn": 3,
+    "BlackQueen": 4,
+    "BlackRook": 5,
+    "Empty": 6,
+    "WhiteBishop": 7,
+    "WhiteKing": 8,
+    "WhiteKnight": 9,
+    "WhitePawn": 10,
+    "WhiteQueen": 11,
+    "WhiteRook": 12
+  }
+}

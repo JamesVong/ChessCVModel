@@ -1,0 +1,18 @@
+{
+  "dataset_root": "dataset",
+  "split_csv": "split_assignments.csv",
+  "output_dir": "runs",
+  "seed": "42",
+  "img_size": "224",
+  "batch_size": "64",
+  "num_workers": "4",
+  "epochs": "60",
+  "lr": "0.0003",
+  "weight_decay": "0.0001",
+  "label_smoothing": "0.05",
+  "unfreeze_epoch": "10",
+  "backbone_lr_multiplier": "0.1",
+  "patience": "12",
+  "aug_arrow_prob": "0.35",
+  "aug_arrow_both_p": "0.1"
+}
