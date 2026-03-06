@@ -39,6 +39,7 @@ NEW_VIDEO_IDS = [
     "w5_WiD3sfxU",  # 17.7m - Can I Beat My Own Baby Chess Bot?
     "jTeJonyDjoA",  # 23.6m - 6 Brilliant Moves IN ONE GAME
     "KNko92SXggk",  # 22.8m - How?
+    "QboipBLHA6s",  # 30.7m - ChatGPT Officially Solved Chess. Game Ov
     "dPLLaPsNbJs",  # 25.5m - Claude vs DeepSeek: The End Of Chess
     "iBJ-DurxcoM",  # 25.7m - ChatGPT HITS 5,000 CHESS ELO
     "YhQNCuCE4no",  # 22.3m - DeepSeek Solved Chess. Goodbye.
@@ -46,9 +47,28 @@ NEW_VIDEO_IDS = [
     "7g-jN3DTkWQ",  # 23.3m - Grok vs Copilot: DUMBEST CHESS MATCH
     "7S8QPpeCyD8",  # 23.2m - CHATBOT CHESS CHAMPIONSHIP IS BACK!!!!!!
     "DmFE2j9dzR4",  # 28.2m - MAGNUS CARLSEN WINS THE WORLD CHAMPIONSH
+    "hGuWF8DsbeE",  # 30.8m - Magnus Carlsen: The King Of Games
     "cTx8qu1m8EU",  # 24.2m - Magnus Carlsen Watches Gotham Play Chess
+    "am1KgUcqUzY",  # 33.3m - MAGNUS CARLSEN MAKES HISTORY!!!!!!!
+    "MG3B1ZlzWdQ",  # 38.4m - THE MOST INSANE DAY OF CHESS IN HISTORY
     "cQAedm_gWrw",  # 25.1m - I Played GM Pia in an Official Tournamen
     "6iWVZb6n8GM",  # 23.9m - GUESS THE ELO: Magnus vs Levy
+    "EWuWuqMHZFE",  # 24.1m - Subscriber sent me a game. I quit foreve
+    "dicIzKyR5n0",  # 27.8m - HE WON THE CHESS CHAMPIONSHIP!!!!!!
+    "sT8WeSeqeZc",  # 28.4m - THIS KID BROKE CHESS. ITS OVER.
+    "ATJ1ErcSdhI",  # 36.0m - COMPLETELY INSANE Guess The Elo
+    "GTfytvzYK8M",  # 20.9m - 8 QUEENS. HOW DID THIS HAPPEN? 
+    "kb4fERx9Qq4",  # 33.9m - The World Champion Has Fallen
+    "_29EV_AUOPU",  # 28.8m - 3000 ELO. I AM UNSTOPPABLE.
+    "phs85SZpNWM",  # 36.9m - THE GREATEST CHESS EVENT OF ALL TIME
+    "1YXsf6cmY4Y",  # 24.9m - World #1 vs World #2 in BLINDFOLDED CHES
+    "qrREzsRq2Jg",  # 33.4m - LEVY'S CANDIDATES 2026 TIER LIST
+    "ZWTbLYkZNNU",  # 32.1m - GRANDMASTER LEVY IS HEREEEEEEEE
+    "KLoVjQ7rvys",  # 29.4m - MY GREATEST CHESS GAME
+    "II48N0xoMS0",  # 30.4m - GOTHAM vs SONG EPISODE 1
+    "gEFo63P_1gY",  # 30.7m - How BRILLIANT Was 7 Year Old Levy?
+    "f9ZLFiIQCYo",  # 30.6m - There are 6 days left.
+    "FB-vLSg4ixo",  # 38.9m - The Idiot's Guide To 1000 Chess Elo
 ]
 
 VIDEO_IDS = EXISTING_VIDEO_IDS + NEW_VIDEO_IDS

@@ -3,7 +3,7 @@ One-time helper to find GothamChess video IDs using yt-dlp.
 Lists uploads from the channel, filters by duration, and prints candidate IDs.
 
 Usage:
-    python find_videos.py [--min-duration 600] [--max-duration 1800] [--limit 50]
+    python find_videos.py [--min-duration 600] [--max-duration 1800] [--limit 50] [--number 15]
 
 Requires: pip install yt-dlp
 """
@@ -70,6 +70,8 @@ def main():
     parser.add_argument("--min-duration", type=int, default=600, help="Min video duration in seconds (default: 600 = 10min)")
     parser.add_argument("--max-duration", type=int, default=1800, help="Max video duration in seconds (default: 1800 = 30min)")
     parser.add_argument("--limit", type=int, default=100, help="Max number of channel videos to scan (default: 100)")
+    parser.add_argument("--number", type=int, default=15, help="Nmber of channel videos to use (default: 15)")
+
     args = parser.parse_args()
 
     print(f"Fetching up to {args.limit} videos from GothamChess channel...")
@@ -87,7 +89,7 @@ def main():
 
     print(f"\n# Copy these IDs to config.py NEW_VIDEO_IDS:")
     print("NEW_VIDEO_IDS = [")
-    for v in candidates[:15]:  # Suggest top 15
+    for v in candidates[:args.number]:  # Suggest top 15
         print(f'    "{v["id"]}",  # {v["duration_min"]}m - {v["title"][:40]}')
     print("]")
 
